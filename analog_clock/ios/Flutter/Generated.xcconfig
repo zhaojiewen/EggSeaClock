@@ -1,0 +1,10 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/yixin/Desktop/Flutter_Dev/flutter
+FLUTTER_APPLICATION_PATH=/Users/yixin/Desktop/Clock/flutter_clock/haiqing/analog_clock
+FLUTTER_TARGET=/Users/yixin/Desktop/Clock/flutter_clock/haiqing/analog_clock/lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_FRAMEWORK_DIR=/Users/yixin/Desktop/Flutter_Dev/flutter/bin/cache/artifacts/engine/ios
+FLUTTER_BUILD_NAME=1.0.0
+FLUTTER_BUILD_NUMBER=1
+TRACK_WIDGET_CREATION=true
