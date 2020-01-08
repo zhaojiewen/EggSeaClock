@@ -90,7 +90,7 @@ class _AnalogClockState extends State<AnalogClock> {
               color: color,
               thickness: 4,
               size: 0.9,
-              angleRadians: _now.hour * radiansPerTick,
+              angleRadians: _now.hour * radiansPerHour,
             ),
           ],
         ),
